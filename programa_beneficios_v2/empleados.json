@@ -1,0 +1,18 @@
+[
+    {
+        "code": "EMP-1699559891742",
+        "direccion": [
+            1,
+            2
+        ],
+        "puntos": 700,
+        "fecha_ingreso": "15-04-1999",
+        "nombre": "Andres"
+    },
+    {
+        "code": "EMP-1700102997805",
+        "puntos": 15000,
+        "fecha_ingreso": "15-04-2020",
+        "nombre": "Pablo"
+    }
+]
